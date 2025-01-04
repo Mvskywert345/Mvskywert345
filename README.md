@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
 <h1 align="center">Hi 👋, I'm Muskan Yadav</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 <img align="right" alt="Coding" width="400"src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
