@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Android and panda**
 
-- 📝 I regularly write articles on [https://hashnode.com/@myav](https://hashnode.com/@myav)
+- 📝 I regularly write articles on [https://vscodeessential.hashnode.dev/](https://vscodeessential.hashnode.dev/)
 
 - 💬 Ask me about **React,Python,sql,MERN**
 
