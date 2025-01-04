@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **muskanyadav122003@gmail.com**
 
-- ⚡ Fun fact **I'm living great life**
+- ⚡ Fun fact **I'm living a great life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
