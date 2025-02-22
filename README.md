@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **something special**
 
-- 🌱 I’m currently learning **Android and panda**
+- 🌱 I’m currently learning **Artificial Intelligence **
 
 - 📝 I regularly write articles on [https://muskanyadav.hashnode.dev/](https://muskanyadav.hashnode.dev/)
 
